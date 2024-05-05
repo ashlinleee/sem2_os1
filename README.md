@@ -33,5 +33,6 @@
 <img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os/assets/142775870/31c3d6fd-daa7-4816-b827-075cec2831d9">
 
 12. `sed`: Utilize a stream editor for filtering and transforming text.
-<img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os/assets/142775870/8a83134b-8bc0-4f49-bbaf-2bf65521a94b">
+<img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os/assets/142775870/4344022e-f485-4029-b24d-dc9f3fa56113">
+
 
