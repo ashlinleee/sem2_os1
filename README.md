@@ -1,4 +1,6 @@
 1. `ls`: List all files and directories in the current directory.
+<img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os/assets/142775870/11c03c69-cde6-4a93-ae89-0000316b8dd0">
+
 2. `cd`: Change the current directory to a specified path.
 3. `mkdir`: Create a new directory with a given name.
 4. `rmdir`: Remove an empty directory.
