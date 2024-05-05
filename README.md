@@ -27,6 +27,8 @@
 
 10. `man`: Display the manual pages for a specified command.
 <img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os/assets/142775870/46e3f63d-9ad2-4492-9547-47a9dc57e3f1">
+<img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os/assets/142775870/4e5c6520-ab31-4ef8-8e29-9381e4ac40c0">
+
 
 11. `grep`: Search for a specified pattern in one or more files.
 <img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os/assets/142775870/31c3d6fd-daa7-4816-b827-075cec2831d9">
