@@ -1,5 +1,5 @@
 1.Write a shellscript that prints "shell scripting is fun" on the screen.
-<img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os1/assets/142775870/3310c2a3-0c66-4cbe-82d0-316a15615e68">
+<img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os1/assets/142775870/a0c6bb84-d26b-4be2-98d9-cff4a2149610">
 
 2.Modify the shellscript from Q1 to include a variable. The variable will hold the message "Shellscript is nice."
 <img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os1/assets/142775870/9664151e-6466-487f-8c1a-7ad219332ed5">
