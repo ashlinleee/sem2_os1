@@ -18,3 +18,6 @@
 
 7.Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it.
 <img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os1/assets/142775870/a6254d4b-9d42-4016-b397-2cd06c1f5bb9">
+
+8.Modify the previous script to accept an unlimited number of files and directories as arguments.
+
