@@ -2,7 +2,7 @@
 <img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os1/assets/142775870/a0c6bb84-d26b-4be2-98d9-cff4a2149610">
 
 2.Modify the shellscript from Q1 to include a variable. The variable will hold the message "Shellscript is nice."
-<img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os1/assets/142775870/9664151e-6466-487f-8c1a-7ad219332ed5">
+<img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os1/assets/142775870/295d435e-48cb-4f94-b50e-70c70e3bd34f">
 
 3.Store the output of the command “hostname” in a variable. Display “This script is running on _.” where “_” is the output of the “hostname” command.
 <img width="1461" alt="image" src="https://github.com/ashlinleee/sem2_os1/assets/142775870/da3a588a-3501-4479-be96-988191cbcff5">
